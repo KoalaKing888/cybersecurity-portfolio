@@ -53,4 +53,4 @@ My goal is to secure a role as a **Junior Penetration Tester** or **SOC Analyst*
 ### Get in Touch
 *   **LinkedIn:** (https://www.linkedin.com/in/KoalaKing888/)
 *   **GitHub:** (https://github.com/KoalaKing888)
-*   **Email:** 
+*   **Email:** 25072578@um.edu.my
