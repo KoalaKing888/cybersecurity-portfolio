@@ -15,7 +15,9 @@ Hello! I am [HUANG SHENG], a passionate IT professional currently pursuing my Ma
 *   **Programming:** Python (Basic scripting for automation), SQL.
 
 ## 3. Certifications and Training
-<!-- To be added -->
+### Certifications
+*   **CompTIA Security+** (In Progress)
+*   **WQE7001 Cyber Security Workshop** - University of Malaya (Completed)
 
 ## 4. Project Experience
 ### Project 1: Network Vulnerability Assessment
@@ -37,7 +39,11 @@ Hello! I am [HUANG SHENG], a passionate IT professional currently pursuing my Ma
 *   **Outcome:** Documented the exploit paths for SQLi and XSS and proposed input validation code as a mitigation strategy.
 
 ## 5. Learning Journey
-<!-- To be added -->
+### Reflection on Progress
+Throughout the WQE7001 course, I have transitioned from understanding basic IT concepts to analyzing complex security architectures.
+*   **Key Learnings:** Mastering the "CIA Triad" (Confidentiality, Integrity, Availability) changed how I view system design. I have gained hands-on confidence using Linux command-line tools for security auditing.
+*   **Challenges:** Initially, understanding the mathematical concepts behind **Public Key Cryptography (RSA)** was challenging.
+*   **Plan for Improvement:** I plan to dedicate more time to "Capture The Flag" (CTF) challenges on platforms like TryHackMe to reinforce my cryptography and penetration testing skills practically.
 
 ## 6. Career Objective
 <!-- To be added -->
