@@ -6,7 +6,6 @@
 ### Introduction
 Hello! I am [HUANG SHENG], a passionate IT professional currently pursuing my Master's degree. My journey in technology has led me to specialize in Cyber Security, where I aim to protect digital assets and infrastructure from evolving threats. I am particularly interested in Network Security and Vulnerability Assessment.
 
-![Profile Photo](https://via.placeholder.com/150 "Please upload your photo to an 'images' folder and link it here")
 
 ## 2. Technical Skills
 ### Core Competencies
