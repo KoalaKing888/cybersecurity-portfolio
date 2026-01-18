@@ -18,7 +18,23 @@ Hello! I am [HUANG SHENG], a passionate IT professional currently pursuing my Ma
 <!-- To be added -->
 
 ## 4. Project Experience
-<!-- To be added -->
+### Project 1: Network Vulnerability Assessment
+*   **Objective:** To identify and mitigate security weaknesses in a simulated corporate network environment.
+*   **Tools Used:** Nmap, Nessus, Metasploit.
+*   **Methodology:**
+    1.  Conducted active reconnaissance using **Nmap** to discover open ports and running services.
+    2.  Performed vulnerability scanning using **Nessus** to identify unpatched software.
+    3.  Simulated an exploit on a legacy SMB protocol to demonstrate impact.
+*   **Outcome:** Successfully identified 5 critical vulnerabilities. Produced a remediation report recommending patch management policies and firewall rule updates.
+
+### Project 2: Web Application Security Analysis
+*   **Objective:** To detect common OWASP Top 10 vulnerabilities in a test web application (DVWA).
+*   **Tools Used:** Burp Suite Community, SQLMap.
+*   **Methodology:**
+    1.  Intercepted HTTP traffic using **Burp Proxy** to analyze request structures.
+    2.  Tested for **SQL Injection** on login forms to bypass authentication.
+    3.  Executed **Cross-Site Scripting (XSS)** payloads to test input sanitization.
+*   **Outcome:** Documented the exploit paths for SQLi and XSS and proposed input validation code as a mitigation strategy.
 
 ## 5. Learning Journey
 <!-- To be added -->
