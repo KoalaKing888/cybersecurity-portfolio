@@ -46,7 +46,11 @@ Throughout the WQE7001 course, I have transitioned from understanding basic IT c
 *   **Plan for Improvement:** I plan to dedicate more time to "Capture The Flag" (CTF) challenges on platforms like TryHackMe to reinforce my cryptography and penetration testing skills practically.
 
 ## 6. Career Objective
-<!-- To be added -->
+### Professional Aspirations
+My goal is to secure a role as a **Junior Penetration Tester** or **SOC Analyst**. I aspire to contribute to a forward-thinking security team where I can apply my skills in threat detection and incident response while continuously learning about new attack vectors.
 
 ## 7. Contact Information
-<!-- To be added -->
+### Get in Touch
+*   **LinkedIn:** (https://www.linkedin.com/in/KoalaKing888/)
+*   **GitHub:** (https://github.com/KoalaKing888)
+*   **Email:** 
